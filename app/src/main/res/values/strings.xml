@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="category_basketball">NBA</string>
+    <string name="category_financial">财经</string>
+    <string name="category_international">国际</string>
+    <string name="category_technology">科技</string>
+    <string name="no_news_found">No News Found</string>
+    <string name="no_network">No Network</string>
+</resources>

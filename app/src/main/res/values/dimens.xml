@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin6dp">6dp</dimen>
+    <dimen name="textSize16sp">16sp</dimen>
+    <dimen name="textSize12sp">12sp</dimen>
+    <dimen name="dividerHeight">1px</dimen>
+</resources>
